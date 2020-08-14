@@ -203,4 +203,4 @@
 - [ ] Six Sigma
 - [ ] Gemba walk
 - [ ] Total Quality Management
-- [ ] Kaizen
+- [x] Kaizen
