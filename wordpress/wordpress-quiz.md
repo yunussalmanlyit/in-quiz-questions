@@ -81,7 +81,7 @@
 - [ ] widgets, containers, sections, settings
 - [ ] containers, hooks, settings, styles
 - [ ] panels, blocks, controls, settings
-- [ ] panels, sections, controls, settings
+- [ *] panels, sections, controls, settings
 
 #### Q12. Which WordPress setting would you use to make page URLs look like `http://example.com/my-page/` instead of the default `http://example.com/?p=21/?`
 - [ ] Writing
