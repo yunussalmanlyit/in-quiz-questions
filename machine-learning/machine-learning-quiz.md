@@ -81,7 +81,7 @@
 
 #### Q14. You work for an ice cream shop and created the chart below, which shows the relationship between the outside temperature and ice cream sales. What is the best description of this chart?
 ![Machine Learning Q14](images/machine-learning_Q14.jpg)
-- [ ] It is a linear regression chart.
+- [*] It is a linear regression chart.
 - [ ] It is a supervised trendline chart.
 - [ ] It is a decision tree.
 - [ ] It is a clustering trend chart.
