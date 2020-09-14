@@ -56,7 +56,7 @@
 
 #### Q10. What does this image illustrate?
 ![Machine Learning Q10](images/machine-learning_Q10.jpg)
-- [ ] a decision tree
+- [*] a decision tree
 - [ ] reinforcement learning
 - [ ] K-nearest neighbor
 - [ ] a clear trendline
@@ -108,7 +108,7 @@
 ![Machine Learning Q18](images/machine-learning_Q18.jpg)
 - [ ] Training Set
 - [ ] Unsupervised Data
-- [ ] Supervised Learning
+- [*] Supervised Learning
 - [ ] Binary Classification
 
 #### Q19. What is one reason not to use the same data for both your training set and your testing set?
